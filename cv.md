@@ -1,12 +1,12 @@
 # Vasily Imaev
-## contacts
+## contacts 
 vimaev@gmail.com, Telegram: @jesuisvassily, discord: Vasily (@voxsilly)
-### Skills:
+### Skills  :
 some knowledge of Python and C 
-#### Code Example: 
+#### Code   Example: 
 function multiply(a, b) {
   return a * b
 }
-##### Experience: solved a codewars' task
-###### Education: Master's degree, School21 Piscine, Python generation @ Stepik   
-### English: Pre-Advanced
+##### Experience:   solved a codewars' task
+###### Education:   Master's degree, School21 Piscine, Python generation @ Stepik   
+### English:        Pre-Advanced
