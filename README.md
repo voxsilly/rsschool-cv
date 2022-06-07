@@ -1,1 +1,1 @@
-# rsschool-cv
+https://voxsilly.github.io/rsschool-cv/
