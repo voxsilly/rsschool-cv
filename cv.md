@@ -9,4 +9,4 @@ function multiply(a, b) {
 }
 ##### Experience: solved a codewars' task
 ###### Education: Master's degree, School21 Piscine, Python generation @ Stepik   
-###### English: Pre-
+### English: Pre-Advanced
